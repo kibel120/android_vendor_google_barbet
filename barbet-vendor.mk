@@ -455,7 +455,6 @@ PRODUCT_PACKAGES += \
     EuiccSupportPixelPermissions \
     HbmSVManager \
     MyVerizonServices \
-    PixelNfc \
     RilConfigService \
     grilservice \
     ims \
